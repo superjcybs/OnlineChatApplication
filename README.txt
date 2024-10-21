@@ -20,6 +20,6 @@ How to Run:
 Clients can send and receive messages in real-time. Each message is broadcasted to all connected clients.
 
 Implementation Details:
-- **ChatServer**: Manages connections, broadcasts messages, and assigns unique user IDs.
-- **ChatClient**: Connects to the server, sends messages, and listens for broadcasts.
-- **Socket Programming**: Used for managing communication between server and clients.
+- ChatServer: Manages connections, broadcasts messages, and assigns unique user IDs.
+- ChatClient: Connects to the server, sends messages, and listens for broadcasts.
+- Socket Programming: Used for managing communication between server and clients.
